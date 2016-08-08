@@ -1,0 +1,1 @@
+<a href="<g:createLink controller="home" action="index"/> " title="前往首页" class="tip-bottom"><i class="icon-home"></i> 首页</a>
